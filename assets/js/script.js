@@ -14,7 +14,7 @@ function getDate() {
 
 // Get the hour from Moment
 function getTime() {
-    return moment().format("HH");
+    return moment().format("HH");    
 }
 
 // Update past/present/future to grey, red, green when rendering 
