@@ -15,11 +15,16 @@ A workday scheduler/calendar that allows a user to save events for each hour of 
 
 * Timeblock events will be saved to local storage for future use.
 
+
 ## Link to deployed application
+
+[GitHub](https://fett-boba.github.io/Week05-work-day-scheduler/) https://fett-boba.github.io/Week05-work-day-scheduler/
 
 
 ## Assets
 
+![Screen capture demonstrating the Workday Scheduler](assets/img/schedulerscreenprint.PNG)
 
+---
 
 
